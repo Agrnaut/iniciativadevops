@@ -1,3 +1,4 @@
 adicionaodo arquivo main.txt
 Nova linha arquivo main
 nova linha local fetch
+Nova linha remoto fetch
